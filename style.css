@@ -1,0 +1,10 @@
+
+header {border-bottom: 1px solid red; padding: 20px;}
+#headstyle{background-color: white; font-family: 궁서; font-size: 30px; }
+
+nav {border-right: 1px solid red; width: 350px; height: 600px; float: left;}
+#liststyle{font-size: 20px; font-family: 궁서; padding-left: 15px; padding-bottom: 25px;}
+
+article {float: left; padding: 20px; width: 1000px;}
+#timestyle{font-size: 8px; float: bottom;}
+#attractionlist{font-size: 15px; font-family: 궁서; padding-bottom: 25px; }
